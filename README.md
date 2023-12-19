@@ -30,4 +30,6 @@ https://github.com/LucRevoltz207/Head-Space
 https://github.com/LucRevoltz207/MeuTemplate
 ### Simulador de um pregão da Bolsa - (Java)
 https://github.com/LucRevoltz207/PregaoB3
+### Galeria de imagens simples (HTML, CSS)
+https://lucrevoltz207.github.io/gallery/
 
