@@ -33,5 +33,5 @@ Atualmente focado em front-end
 ### Simulador de um pregão da Bolsa - (Java)
 https://github.com/LucRevoltz207/PregaoB3
 ### Galeria de imagens simples (HTML, CSS)
-[https://github.com/LucRevoltz207/gallery](https://lucrevoltz207.github.io/gallery/)https://lucrevoltz207.github.io/gallery/
+[https://github.com/LucRevoltz207/gallery](https://lucrevoltz207.github.io/gallery/)
 
