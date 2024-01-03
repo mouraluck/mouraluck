@@ -34,3 +34,8 @@ https://github.com/LucRevoltz207/PregaoB3
 ### Galeria de imagens simples (HTML, CSS)
 [https://github.com/LucRevoltz207/gallery](https://lucrevoltz207.github.io/gallery/)
 
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{LucRevoltz207}/count.svg" /></p> 
+<br></div>
+
