@@ -27,11 +27,11 @@ In https://www.linkedin.com/in/LucRevoltz/
 Atualmente focado em front-end
 ## Projetos
 ### HeadSpace - (HTML, CSS)
-https://github.com/LucRevoltz207/Head-Space
+[https://github.com/LucRevoltz207/Head-Space](https://lucrevoltz207.github.io/Head-Space/)
 ### Template de Site web responsivo - (HTML, CSS e JS)
-https://github.com/LucRevoltz207/MeuTemplate
+[https://github.com/LucRevoltz207/MeuTemplate](https://lucrevoltz207.github.io/MeuTemplate/)
 ### Simulador de um pregão da Bolsa - (Java)
 https://github.com/LucRevoltz207/PregaoB3
 ### Galeria de imagens simples (HTML, CSS)
-https://github.com/LucRevoltz207/gallery
+[https://github.com/LucRevoltz207/gallery](https://lucrevoltz207.github.io/gallery/)https://lucrevoltz207.github.io/gallery/
 
