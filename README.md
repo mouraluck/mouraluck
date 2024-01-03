@@ -19,6 +19,8 @@ Java, HTML, CSS, C, Lógica de programação
 
 📫 l.conceicao@aluno.ifsp.edu.br 
 
+In https://www.linkedin.com/in/LucRevoltz/
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucRevoltz207&layout=donut-vertical&icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🚀 Sobre mim
