@@ -13,7 +13,7 @@ Java, HTML, CSS, C, Lógica de programação
   
    <div align="center">
      
-  ![IntelliJ](https://img.shields.io/badge/IntelliJ-8250b5.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+  
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
   ![Linux](https://img.shields.io/badge/linux-%23a19f33?style=for-the-badge&logo=linux&logoColor=%23ffffff)
   ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
