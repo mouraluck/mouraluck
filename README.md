@@ -1,5 +1,4 @@
-
-# Lucas Moura 🦈 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=318&color=timeAuto&text=Olá,%20eu%20sou%20Lucas%20Moura!%20😄&section=header&reversal=true&fontSize=60&animation=twinkling"/>
 
 ## 🛠 Habilidades
 Java, HTML, CSS, C, Lógica de programação
@@ -8,7 +7,20 @@ Java, HTML, CSS, C, Lógica de programação
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="-java" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-</div>           
+</div>
+
+  ## Ferramentas:
+  
+   <div align="center">
+     
+  ![IntelliJ](https://img.shields.io/badge/IntelliJ-8250b5.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  ![Linux](https://img.shields.io/badge/linux-%23a19f33?style=for-the-badge&logo=linux&logoColor=%23ffffff)
+  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/mysql-470.svg?style=for-the-badge&logo=mysql&logoColor=white)
+  ![Windows](https://img.shields.io/badge/Windows-4708D6?style=for-the-badge&logo=windows&logoColor=white)
+  ![IntelliJ](https://img.shields.io/badge/IntelliJ-8250b5.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+  ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) </div>
 
 ## Outras informações 
 👨‍💻 Aluno do Instituto Federal de Educação, Ciência e Tecnologia de São Paulo 
@@ -38,4 +50,4 @@ https://github.com/LucRevoltz207/PregaoB3
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{LucRevoltz207}/count.svg" /></p> 
 <br></div>
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=318&color=timeAuto&section=footer&reversal=true&fontSize=60&animation=twinkling"/>
