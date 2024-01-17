@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&random=false&width=435&lines=Ol%C3%A1%2C+eu+sou+Lucas+Moura;+seja+bem+vind%40+ao+meu+perfil!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&random=false&width=435&lines=Ol%C3%A1+eu+sou+Lucas+Moura+%F0%9F%96%96%F0%9F%92%BB;seja+bem+vind%40+ao+meu+perfil!" alt="Typing SVG" /></a>
 
  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" align="center" alt="DenverCoder1's streak" src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=LucRevoltz207&theme=monokai-metallian&hide_border=true"/>
    
