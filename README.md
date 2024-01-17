@@ -1,12 +1,15 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=318&color=timeAuto&text=Olá,%20eu%20sou%20Lucas%20Moura!%20😄&section=header&reversal=true&fontSize=60&animation=twinkling"/>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&random=false&width=435&lines=Ol%C3%A1%2C+eu+sou+Lucas+Moura;+seja+bem+vind%40+ao+meu+perfil!" alt="Typing SVG" /></a>
+
+ <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" align="center" alt="DenverCoder1's streak" src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=LucRevoltz207&theme=monokai-metallian&hide_border=true"/>
+   
 
 ## 🛠 Habilidades
 Java, HTML, CSS, C, Lógica de programação
-<div style="display: inlin-block"><br>
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="-java" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+<div align="center" style="display: flex"><br>
+  <img align="center" alt="HTML" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="-java" height="30" width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="C" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 </div>
 
   ## Ferramentas:
