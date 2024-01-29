@@ -3,8 +3,9 @@
 
  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" align="center" alt="DenverCoder1's streak" src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=LucRevoltz207&theme=monokai-metallian&hide_border=true"/>
    
+## Tech Stack 🔋
 
-##  👨‍💻 Habilidades
+###  👨‍💻 Habilidades:
 Java, HTML, CSS, C, Lógica de programação
 <div align="center" style="display: flex"><br>
   <img align="center" alt="HTML" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -13,7 +14,7 @@ Java, HTML, CSS, C, Lógica de programação
   <img align="center" alt="C" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 </div>
 
-## 🖥️ Informatica
+### 🖥️ Informatica:
 
 <img align="center" alt="html5" src="https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white"/> 
 <img align="center" alt="html5" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
@@ -21,7 +22,7 @@ Java, HTML, CSS, C, Lógica de programação
 <img align="center" alt="html5" src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white"/>
 <img align="center" alt="html5" src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white"/>
 
-  ## 🛠 Ferramentas:
+  ### 🛠 Ferramentas:
   
    <div align="center">
      
