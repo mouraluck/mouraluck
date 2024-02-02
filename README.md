@@ -52,7 +52,7 @@ Java, HTML, CSS, C, Lógica de programação
 Atualmente focado em front-end
 ## Projetos
 ### Portfolio - links (HTML, CSS)
-https://lucrevoltz207.github.io/Portifolio/
+https://lucrevoltz207.github.io/Portfolio/
 ### Formulario - (HTML, CSS, MySQL, PHP)
 https://github.com/LucRevoltz207/Formulario
 ### Interface de login - (HMTL, CSS, PHP, MySQL)
