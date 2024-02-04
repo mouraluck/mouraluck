@@ -53,6 +53,8 @@ Atualmente focado em front-end
 ## Projetos
 ### Portfolio - links (HTML, CSS)
 https://lucrevoltz207.github.io/Portfolio/
+### Recriação do paint para pc - (HTML, CSS, JS)
+https://lucrevoltz207.github.io/notasiPad/
 ### Formulario - (HTML, CSS, MySQL, PHP)
 https://github.com/LucRevoltz207/Formulario
 ### Interface de login - (HMTL, CSS, PHP, MySQL)
