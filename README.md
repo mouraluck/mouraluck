@@ -3,7 +3,8 @@
 <h2>Desenvolvimento orientado a objetos/ Desenvolvimento web - Front-End</h2>
  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" align="center" alt="DenverCoder1's streak" src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=LucRevoltz207&theme=monokai-metallian&hide_border=true"/>
    
-## Tech Stack 🔋
+## Tech Stack 
+
 
 ###  👨‍💻 Habilidades:
 Java, HTML, CSS, C, Lógica de programação
