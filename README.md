@@ -72,8 +72,7 @@ https://github.com/LucRevoltz207/PregaoB3
 [https://github.com/LucRevoltz207/gallery](https://lucrevoltz207.github.io/gallery/)
 <p align="center">Obrigado pela visita S2</p>
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
+<br><p align="center"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{LucRevoltz207}/count.svg" /></p> 
 <br></div>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=318&color=timeAuto&section=footer&reversal=true&fontSize=60&animation=twinkling"/>
 <img src="https://64.media.tumblr.com/005e37a86478a9c92da7d4d3d7464b40/2bd29f0062317531-b1/s400x600/c7edc142895bc810339223dfddf2aa57ced0c32b.gif" width="1000"/>
