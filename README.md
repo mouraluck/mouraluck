@@ -56,20 +56,9 @@ Atualmente focado em front-end
 https://lucrevoltz207.github.io/Portfolio/
 ### Recriação do paint para pc - (HTML, CSS, JS)
 https://lucrevoltz207.github.io/notasiPad/
-### Formulario - (HTML, CSS, MySQL, PHP)
-https://github.com/LucRevoltz207/Formulario
-### Interface de login - (HMTL, CSS, PHP, MySQL)
-https://github.com/LucRevoltz207/LoginPHP
 ### HeadSpace - (HTML, CSS)
 [https://github.com/LucRevoltz207/Head-Space](https://lucrevoltz207.github.io/Head-Space/)
-### TrilhosSP - (HTML, CSS, JS, MySQL)
-https://github.com/LucRevoltz207/TrilhosSP
-### Template de Site web responsivo - (HTML, CSS e JS)
-[https://github.com/LucRevoltz207/MeuTemplate](https://lucrevoltz207.github.io/MeuTemplate/)
-### Simulador de um pregão da Bolsa - (Java)
-https://github.com/LucRevoltz207/PregaoB3
-### Galeria de imagens simples (HTML, CSS)
-[https://github.com/LucRevoltz207/gallery](https://lucrevoltz207.github.io/gallery/)
+
 <p align="center">Obrigado pela visita S2</p>
 <div align="center">
 <br><p align="center"><b>Visitors Count</b></p>  
