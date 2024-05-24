@@ -1,7 +1,7 @@
 <img src="https://64.media.tumblr.com/005e37a86478a9c92da7d4d3d7464b40/2bd29f0062317531-b1/s400x600/c7edc142895bc810339223dfddf2aa57ced0c32b.gif" width="1000"/>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&random=false&width=435&lines=Ol%C3%A1+eu+sou+Lucas+Moura+%F0%9F%96%96%F0%9F%92%BB;seja+bem+vind%40+ao+meu+perfil!" alt="Typing SVG" /></a>
 <h2>Desenvolvimento orientado a objetos/ Desenvolvimento web - Front-End</h2>
- <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" align="center" alt="DenverCoder1's streak" src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=LucRevoltz207&theme=monokai-metallian&hide_border=true"/>
+ <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" align="center" alt="DenverCoder1's streak" src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=mouraluck&theme=monokai-metallian&hide_border=true"/>
    
 ## Tech Stack 
 
@@ -47,7 +47,7 @@ Java, HTML, CSS, C, Lógica de programação
 📫 l.conceicao@aluno.ifsp.edu.br 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucRevoltz207&layout=donut-vertical&icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mouraluck&layout=donut-vertical&icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🚀 Sobre mim
 Atualmente focado em front-end
