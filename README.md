@@ -53,15 +53,15 @@ Java, HTML, CSS, C, Lógica de programação
 Atualmente focado em front-end
 ## Projetos
 ### Portfolio - links (HTML, CSS)
-https://lucrevoltz207.github.io/Portfolio/
+https://mouraluck.github.io/Portfolio/
 ### Recriação do paint para pc - (HTML, CSS, JS)
-https://lucrevoltz207.github.io/notasiPad/
+https://mouraluck.github.io/notasiPad/
 ### HeadSpace - (HTML, CSS)
-[https://github.com/LucRevoltz207/Head-Space](https://lucrevoltz207.github.io/Head-Space/)
+[https://github.com/mouraluck/Head-Space](https://mouraluck.github.io/Head-Space/)
 
 <p align="center">Obrigado pela visita S2</p>
 <div align="center">
 <br><p align="center"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{LucRevoltz207}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{mouraluck}/count.svg" /></p> 
 <br></div>
 <img src="https://64.media.tumblr.com/005e37a86478a9c92da7d4d3d7464b40/2bd29f0062317531-b1/s400x600/c7edc142895bc810339223dfddf2aa57ced0c32b.gif" width="1000"/>
