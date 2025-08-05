@@ -58,13 +58,13 @@ Com nível de inglês B2 (intermediário-avançado), estou preparado para atuar 
 
 Para baixar meu currículo em formato PDF, por favor, clique no link abaixo:
 
-[**➡️ Baixar Currículo (PDF)**](URL_DIRETA_PARA_O_SEU_ARQUIVO_DE_CURRICULO)
+[**➡️ Baixar Currículo (PDF)**](https://github.com/mouraluck/mouraluck/blob/main/assets/CurriculoLucasMouraPt.pdf)
 
 ## Download
 
 To download my resume in PDF format, please click the link below:
 
-[**➡️ Download Resume (PDF)**](DIRECT_URL_TO_YOUR_RESUME_FILE)
+[**➡️ Download Resume (PDF)**](https://github.com/mouraluck/mouraluck/blob/main/assets/CurriculoLucasMouraEn.pdf)
 
 
 
