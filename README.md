@@ -61,13 +61,13 @@ Com nível de inglês B2 (intermediário-avançado), estou preparado para atuar 
 ### HeadSpace - (HTML, CSS)
 [https://github.com/mouraluck/Head-Space](https://mouraluck.github.io/Head-Space/)
 
-## Download
+## Download Pt-BR
 
 Para baixar meu currículo em formato PDF, por favor, clique no link abaixo:
 
 [**➡️ Baixar Currículo (PDF)**](https://github.com/mouraluck/mouraluck/blob/main/assets/CurriculoLucasMouraPt.pdf)
 
-## Download
+## Download En
 
 To download my resume in PDF format, please click the link below:
 
