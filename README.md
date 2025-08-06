@@ -3,17 +3,13 @@
 
 <h2>Desenvolvedor Back-end</h2>
 
-<div>
-<img  title="🔥 Get streak stats for your profile at git.io/streak-stats" align="center" alt="DenverCoder1's streak" src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=mouraluck&theme=monokai-metallian&hide_border=true"/></div>
- <br>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mouraluck&layout=compact&langs_count=7&theme=dracula"/>
+<p align="center">
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app?user=mouraluck&theme=highcontrast&border_radius=5.1&locale=pt_BR&date_format=j%20M%5B%20Y%5D&background=45%2C110F3E%2C110F3E&fire=4582F7&ring=4582F7&currStreakLabel=4582F7&dates=4582F7&sideNums=4582F7" alt="GitHub Streak" /></a> 
+&emsp; <!-- Espaço largo -->
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mouraluck&layout=compact&langs_count=10&bg_color=110F3E&text_color=4582F7"/>
+</p>
 
-
-   
 ## Tech Stack 
-
-
-###  👨‍💻 Habilidades:
 
 
 ### 🛠 Ferramentas:
@@ -32,7 +28,6 @@
 <br>
 </div>
 
-## 
 
 ## 🚀 Sobre mim
 
@@ -45,6 +40,18 @@ Tenho familiaridade com a containerização de aplicações usando Docker, bem c
 Na Zitec, atuo como desenvolvedor Back-end, participando ativamente de projetos em C# e ASP.NET. Além disso, tenho conhecimentos complementares em desenvolvimento web (HTML, CSS, JavaScript), prototipação com Canva, pacote Office 365 e noções de FIDC (Fundos de Investimento em Direitos Creditórios), o que amplia minha visão técnica e de negócio.
 
 Com nível de inglês B2 (intermediário-avançado), estou preparado para atuar em equipes multidisciplinares, absorver novas tecnologias com rapidez e contribuir com soluções inovadoras e eficientes.
+
+### 📩 Onde me encontrar
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mouraluck" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-4582F7?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:pf.lucasmoura@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-4582F7?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
 
 ## Projetos
 ### MyMed
@@ -71,6 +78,7 @@ To download my resume in PDF format, please click the link below:
 <p align="center">Obrigado pela visita!</p>
 <div align="center">
 <br><p align="center"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{mouraluck}/count.svg" /></p> 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=mouraluckd&label=VISUALIZAÇÕES&color=4582F7&style=flat-square" alt="Profile views"/>
+
 <br></div>
 <img src="https://64.media.tumblr.com/005e37a86478a9c92da7d4d3d7464b40/2bd29f0062317531-b1/s400x600/c7edc142895bc810339223dfddf2aa57ced0c32b.gif" width="1000"/>
