@@ -4,9 +4,12 @@
 <h2>Desenvolvedor Back-end</h2>
 
 <p align="center">
+<h3>Sequências</h3>
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app?user=mouraluck&theme=highcontrast&border_radius=5.1&locale=pt_BR&date_format=j%20M%5B%20Y%5D&background=45%2C110F3E%2C110F3E&fire=4582F7&ring=4582F7&currStreakLabel=4582F7&dates=4582F7&sideNums=4582F7" alt="GitHub Streak" /></a> 
-&emsp; <!-- Espaço largo -->
+<h3>Linguagens Usadas</h3>
 <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mouraluck&layout=compact&langs_count=10&bg_color=110F3E&text_color=4582F7"/>
+<h3>mouraluck's Github</h3>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mouraluck&theme=discord_old_blurple">
 </p>
 
 ## Tech Stack 
